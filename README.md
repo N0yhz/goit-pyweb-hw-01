@@ -3,7 +3,7 @@
 1. Class Diagram
 ![diag](https://github.com/N0yhz/goit-pyweb-hw-01/blob/main/class_diag.png?raw=true)
 
-2. 
+2. ConsoleView
 
 *main.py*
 
