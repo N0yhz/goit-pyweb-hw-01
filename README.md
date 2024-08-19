@@ -1,7 +1,7 @@
 # goit-pyweb-hw-01
 
 1. Class Diagram
-![diag] (https://github.com/N0yhz/goit-pyweb-hw-01/blob/main/class_diag.png?raw=true)
+![diag](https://github.com/N0yhz/goit-pyweb-hw-01/blob/main/class_diag.png?raw=true)
 
 2. 
 
